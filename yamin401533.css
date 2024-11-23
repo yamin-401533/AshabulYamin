@@ -2,7 +2,7 @@
     --primary-color: #ff6600;
     --secondary-color: hsl(54, 100%, 50%);
     --text-color: #ffffff;
-    --background-color: #1a1a2e;
+    --background-color: #000000;
     --glass-background: rgba(255, 255, 255, 0.1);
 }
 
@@ -11,7 +11,7 @@
     --primary-color: #ff6600;
     --secondary-color: hsl(54, 100%, 50%);
     --text-color: #e5e7eb;
-    --background-color: #000000;
+    --background-color: #1a1a2e;
 }
 
 
