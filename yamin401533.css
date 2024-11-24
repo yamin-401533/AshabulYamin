@@ -704,11 +704,6 @@ button{
             margin-right: 120px;
         }
 
-        .navigation:hover {
-            width: 1050px;
-            box-shadow: 0 8px 15px rgba(255, 124, 17, 0.8);
-        }
-
         .navigation ul {
             display: flex;
             width: 100%;
