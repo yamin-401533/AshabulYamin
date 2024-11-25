@@ -46,14 +46,20 @@ body {
 /* Header and Navigation */
 
 
+.logo-img {
+    width: 70px; 
+    height: 63px; 
+    border-radius: 35px;
+    object-fit: cover;
+    background-color: var(--glass-background);
+}
 header {
             position: fixed;
             top: 0;
             left: 0;
             right: 0;
             z-index: 1000;
-            background-color: var(--bg-color);
-            backdrop-filter: blur(50px);
+            background-color: rgba(0, 0, 0,0.965);
             transition: all 0.3s ease;
         }
 
